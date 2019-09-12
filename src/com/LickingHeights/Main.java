@@ -8,6 +8,7 @@ public class Main {
 	System.out.println("We will be doing something today");
 	System.out.println("But i do not know what we will be doing");
 	System.out.println("I will ask Mr. Walters");
+	System.out.println("I found out what we are going to do today");
 
 
     }
