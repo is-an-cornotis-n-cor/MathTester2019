@@ -15,7 +15,7 @@ public class Main {
         secondNumber = 10;
 
         System.out.println(firstWord+secondWord);
-        System.out.println(firstWord+secondNumber);
+        System.out.println(firstWord+(firstNumber+secondNumber));
 
 
 
