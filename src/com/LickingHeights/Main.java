@@ -17,7 +17,7 @@ public class Main {
         System.out.println(firstWord+secondWord);
         System.out.println(firstWord+(firstNumber+secondNumber));
         System.out.println("firstNumber + SecondNumber is" + (firstNumber+secondNumber));
-
+        System.out.println("firstNumber - SecondNumber is" + (firstNumber-secondNumber));
 
 
 
